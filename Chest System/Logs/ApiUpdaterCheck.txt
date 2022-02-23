@@ -1,0 +1,20 @@
+[api-updater (non-obsolete-error-filter)] 15-02-2022 00:29:06 : Starting E:/GAME CARFEER/UNITYGAMING/2020.3.11f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2774.254ms
+moved types parse time: 110ms
+candidates parse time : 2ms
+C# parse time         : 1599ms
+candidates check time : 96ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 15-02-2022 00:29:18 : Starting E:/GAME CARFEER/UNITYGAMING/2020.3.11f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 171.8816ms
+moved types parse time: 143ms
+candidates parse time : 3ms
+C# parse time         : 458ms
+candidates check time : 87ms
+console write time    : 0ms
+
